@@ -1,0 +1,74 @@
+[
+    {
+        "Id": 1,
+        "Name": "Milk",
+        "Price": "10",
+        "Image1": "milk.png",
+        "Company": "Tnuva",
+        "Image2": "milk2.png",
+        "Details": "Fresh milk every day !"
+    },
+    {
+        "Id": 2,
+        "Name": "Bread",
+        "Price": "8",
+        "Image1": "bread.png",
+        "Company": "Berman Bakery",
+        "Image2": "bread2.png",
+        "Details": "Most delicious bread !"
+    },
+    {
+        "Id": 3,
+        "Name": "Eggs",
+        "Price": "12",
+        "Image1": "eggs.png",
+        "Company": "Haim's Eggs",
+        "Image2": "eggs2.png",
+        "Details": "Eggs straight from the hen house"
+    },
+    {
+        "Id": 4,
+        "Name": "Cornflakes",
+        "Price": "22",
+        "Image1": "cornflakes.png",
+        "Company": "Telma",
+        "Image2": "cornflakes2.png",
+        "Details": "That's the right way to open the day !"
+    },
+    {
+        "Id": 5,
+        "Name": "Cola",
+        "Price": "6",
+        "Image1": "cola.png",
+        "Company": "Coca-Cola",
+        "Image2": "cola2.png",
+        "Details": "Best flavour drink"
+    },
+    {
+        "Id": 6,
+        "Name": "Tomato",
+        "Price": "3",
+        "Image1": "tomato.png",
+        "Company": "Zinger Vegetables",
+        "Image2": "tomato2.png",
+        "Details": "Fresh red juicy tomato's"
+    },
+    {
+        "Id": 7,
+        "Name": "Cucumber",
+        "Price": "2",
+        "Image1": "cucumber.png",
+        "Company": "Zinger Vegetables",
+        "Image2": "cucumber2.png",
+        "Details": "Best organic cucumber"
+    },
+    {
+        "Id": 8,
+        "Name": "Olives",
+        "Price": "15",
+        "Image1": "olives.png",
+        "Company": "Zeita",
+        "Image2": "olives2.png",
+        "Details": "Original syrian olives"
+    }
+]

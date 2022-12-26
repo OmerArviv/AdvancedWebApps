@@ -1,0 +1,19 @@
+.CartItems {
+    position: absolute;
+    right: 0;
+    width: 20%;
+    margin: 20px;
+    padding: 20px;
+    background-color: lightgray;
+    border-radius: 10px;
+    border: 2px solid;
+}
+
+.btn_buyitems {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.btn_buyitems:active {
+    background-color: lightgoldenrodyellow;
+}

@@ -1,0 +1,45 @@
+.product {
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: aliceblue;
+    margin-bottom: 100px;
+}
+
+.product__image1 {
+    width: 300px;
+    height: auto;
+}
+
+.product__name {
+    font-size: 80px;
+}
+
+.product__price {
+    font-size: 20px;
+    color: brown;
+    margin-bottom: 10px;
+}
+
+.product__company {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.product__image2 {
+    width: 50%;
+    height: auto;
+}
+
+.product__details {
+    font-size: 50px;
+    color: blue;
+}
+
+.product__backhome {
+    text-align: center;
+    font-size: 30px;
+}

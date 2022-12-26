@@ -1,0 +1,27 @@
+.ListItem {
+    display: flexbox;
+    float: left;
+    margin-right: 20px;
+    margin-left: 20px;
+    width: 300px;
+    height: 100px;
+    margin-top: 15px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    font-family: "Syne Mono", monospace;
+    border-radius: 10px;
+  }
+  
+  .ListItem__name {
+    font-weight: 1000;
+  }
+  
+  .ListItem__img {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 60%;
+    object-fit: cover;
+    width: 60px;
+    height: 60px;
+  }
